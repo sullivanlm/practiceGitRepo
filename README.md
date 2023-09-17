@@ -1,2 +1,2 @@
 This is a README file
-Slay
+This is practice project to help me understand the workings of kit hub better
